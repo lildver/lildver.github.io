@@ -1,2 +1,1 @@
-# lildver.github.io
-LIL DVER Web Site
+# LIL DVER Web Site
